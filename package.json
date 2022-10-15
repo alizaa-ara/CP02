@@ -1,0 +1,22 @@
+{
+  "name": "cp02",
+  "version": "1.0.0",
+  "description": "package for cp02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alizaa-ara/CP02.git"
+  },
+  "author": "Alizaa Ara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alizaa-ara/CP02/issues"
+  },
+  "homepage": "https://github.com/alizaa-ara/CP02#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
